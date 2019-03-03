@@ -1,0 +1,8 @@
+Autor: Rafael Amancio Diegues
+Data: 27/02/2019
+
+Projeto: Análise estatística de dados globais de voos buscando características e tendências, com enfoque em atrasos.
+
+O objetivo deste projeto é realizar uma análise estatística nos dados de voos obtidos por meio do flightradar24, identificando pontos em que seja
+possível correlacionar os atrasos de voos e suas características, identificando também a frequencia de uso de certas rotas e possivelmente tendências
+de utilização para o mercado futuro.
